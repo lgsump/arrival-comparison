@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Arrival Comparison" ] },
+    "summary": { "en": [ "Comparing the beginning and ending montage in Denis Villeneuve's Arrival (2016). " ] },
+    "items": [
+    ]
+}
